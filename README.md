@@ -1,7 +1,7 @@
 # Tic Tac Toe (Minimax Engine)
 
 An unbeatable Tic Tac Toe game featuring a smart AI powered by the **Minimax algorithm** and a modern glassmorphic UI.
-
+LIVE DEMO:https://tictactoe-minimax-engine.vercel.app/
 ## 🚀 Features
 - **🧠 Minimax AI**: The AI opponent plays optimally, ensuring a fair challenge.
 - **🔄 Dual Mode**: Play against the Bot or locally with a friend (Human vs Human).
